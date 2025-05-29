@@ -1,7 +1,7 @@
 # Angular Phone Number Input
 ## Installation
 ```
-npm i angular-phone-number-input
+npm i angular-phone-number-input1
 ```
 Have implemented country-specific validations using [libphonenumber-js](https://www.npmjs.com/package/libphonenumber-js)
 
